@@ -1,0 +1,5 @@
+{
+    "datetime": "2020.04.29T14:03:34.511Z",
+    "location": {"long": 1234, "lat": 5678},
+    "weatherData": {"temp": 32, "humidity": 30} 
+}
